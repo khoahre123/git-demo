@@ -1,7 +1,2 @@
 ichiban sushi
-pizza hut
-swensen's
-mcdonald
-kfc
-abc
-xyz
+
