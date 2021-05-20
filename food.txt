@@ -3,3 +3,6 @@ burger
 pizza
 carbonara
 salad
+fries
+grilled salmon
+
